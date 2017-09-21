@@ -1,0 +1,10 @@
+#top-bar{
+	background: transparent url("images/top-bar.png");
+	height: ;
+}
+
+#mid-bar{
+	background: transparent url("images/Mid-bar.png")
+	height: 300px;
+	width: 50%;
+}
