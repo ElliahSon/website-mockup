@@ -1,14 +1,13 @@
-#top-bar{
-	background: transparent url("images/top-bar.png");
-	height: ;
+#body {
+	background-color: #74CF79;
 }
 
-#mid-bar{
-	background: transparent url("images/Mid-bar.png")
-	height: 300px;
-	width: 50%;
-	margin: auto;
-
+#right-header {
+	margin-left: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: auto;
 }
 
-#bottom-bar
+/*I don't know why my css wont work, I dont see anything wrong with the link*/
+
